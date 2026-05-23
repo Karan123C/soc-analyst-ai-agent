@@ -53,7 +53,7 @@ ALERT_FILE = "/tmp/alert.json"
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/soc-analyst-ai-agent.git
+git clone https://github.com/Karan123C/soc-analyst-ai-agent.git
 cd soc-analyst-ai-agent
 
 # Install dependencies
